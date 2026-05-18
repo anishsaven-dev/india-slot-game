@@ -1,7 +1,7 @@
 # India Slot Game APK For Android
 
 <p align="center">
-  <img src="india-slot-app-icon.png" width="120" alt="India Slot App Icon">
+  <img src="images/india-slot-app-icon.webp" width="250" alt="India Slot App Icon">
 </p>
 
 India Slot is an exciting Android slot-style game designed especially for players who enjoy immersive casino-inspired entertainment on mobile devices. The game delivers smooth gameplay, colorful visuals, rewarding spin mechanics, and engaging lucky spin experiences tailored for the Indian audience.
@@ -36,9 +36,9 @@ The India Slot app download is available for Android users who want quick access
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="india-slot-screenshot-1.png" width="220">
-  <img src="india-slot-screenshot-2.png" width="220">
-  <img src="india-slot-screenshot-3.png" width="220">
+  <img src="images/india-slot-screenshot-1.webp" width="320">
+  <img src="images/india-slot-screenshot-2.webp" width="320">
+  <img src="images/india-slot-screenshot-3.webp" width="320">
 </p>
 
 ---
